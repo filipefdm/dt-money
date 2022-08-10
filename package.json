@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "dev:server": "json-server server.json -p 3333 -w -d 500",
+    "dev:server": "npx json-server server.json -p 3333 -w -d 500",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
