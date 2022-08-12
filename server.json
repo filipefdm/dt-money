@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2022-08-11T17:00:12.826Z",
       "id": 5
+    },
+    {
+      "description": "Aluguel",
+      "price": 700,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2022-08-12T11:32:21.543Z",
+      "id": 6
     }
   ]
 }
